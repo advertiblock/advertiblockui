@@ -71,7 +71,7 @@
   function convertSubscription(subscription)
   {
     var obj = convertObject(["disabled", "downloadStatus", "homepage",
-                             "lastDownload", "title", "url"], subscription);
+                             "lastDownload", "title", "url", "hidden"], subscription);
     obj.isDownloading = Synchronizer.isExecuting(subscription.url);
     return obj;
   }
