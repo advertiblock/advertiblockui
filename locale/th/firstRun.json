@@ -33,19 +33,19 @@
     "message": "ปิดระบบติดตามการใข้งาน"
   },
   "firstRun_features": {
-    "message": "Adblock Plus สามารถทำได้มากกกว่าบล็อกโฆษณา"
+    "message": "AdvertiBlock สามารถทำได้มากกกว่าบล็อกโฆษณา"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "ดูเหมือนว่าปัญหาจะเกิดจากตัวกรองทั้งหมดถูกลบออกไปแล้วไม่สามารถคืนค่าจากตัวสำรองข้อมูลได้ ดังนั้นเรามีตัวรีเซ็ตตัวกรองที่ได้รับการยอมรับ กรุณาตรวจสอบรายการตัวกรองโฆษณาของคุณืั้ <a>ตัวเลือก Adblock Plus</a>"
+    "message": "ดูเหมือนว่าปัญหาจะเกิดจากตัวกรองทั้งหมดถูกลบออกไปแล้วไม่สามารถคืนค่าจากตัวสำรองข้อมูลได้ ดังนั้นเรามีตัวรีเซ็ตตัวกรองที่ได้รับการยอมรับ กรุณาตรวจสอบรายการตัวกรองโฆษณาของคุณืั้ <a>ตัวเลือก AdvertiBlock</a>"
   },
   "firstRun_legacySafariWarning": {
-    "message": "คุณกำลังใช้เวอร์ชั่นเก่าบน Safari ที่ไม่ได้รับการสนับสนุนจาก Adblock Plus จะทำให้ทำงานผิดพลาดได้ เราขอแนะนำให้คุณอัพเดต Safari เป็นเวอร์ชั่น 6.1.1 หรือรุ่นที่สูงกว่า (บน OS X 10.8 Mountain Lion) หรือ Safari 7.0.1 หรือสูงกว่า (บน OS X 10.9 Mavericks) หรือใช้เวอร์ชั่นล่าสุดบน Mozilla Firefox, Google Chrome และ Opera"
+    "message": "คุณกำลังใช้เวอร์ชั่นเก่าบน Safari ที่ไม่ได้รับการสนับสนุนจาก AdvertiBlock จะทำให้ทำงานผิดพลาดได้ เราขอแนะนำให้คุณอัพเดต Safari เป็นเวอร์ชั่น 6.1.1 หรือรุ่นที่สูงกว่า (บน OS X 10.8 Mountain Lion) หรือ Safari 7.0.1 หรือสูงกว่า (บน OS X 10.9 Mavericks) หรือใช้เวอร์ชั่นล่าสุดบน Mozilla Firefox, Google Chrome และ Opera"
   },
   "firstRun_share": {
     "message": "บอกเพื่อนของคุณ"
   },
   "firstRun_title": {
-    "message": "กาติดตั้ง Adblock Plus เสร็จสมบูรณ์"
+    "message": "กาติดตั้ง AdvertiBlock เสร็จสมบูรณ์"
   },
   "firstRun_toggle_off": {
     "message": "ไม่ทำงาน"

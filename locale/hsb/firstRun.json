@@ -36,13 +36,13 @@
     "message": "Přehladujće priwatnje znjemóžnjejo slědowanje resp. chowajo swoje slědy před wabjenskimi předewzaćemi, kotrež bychu rady kóždy z wašich pohibow slědowali."
   },
   "firstRun_features": {
-    "message": "Adblock Plus móže wjace činić hač wabjenje blokować"
+    "message": "AdvertiBlock móže wjace činić hač wabjenje blokować"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Zda so, zo problem je zawinował, zo wšě filtry su so wotstronili a my njemóžachmy zawěsćenje wobnowić. Tohodla dyrbjachmy waše filtry a nastajenja za akceptabelne wabjenje wróćo stajić. Prošu přepruwujće swoje filtrowe lisćiny a nastajenja za akceptabelne wabjenje w <a>nastajenjach Adblock Plus</a>."
+    "message": "Zda so, zo problem je zawinował, zo wšě filtry su so wotstronili a my njemóžachmy zawěsćenje wobnowić. Tohodla dyrbjachmy waše filtry a nastajenja za akceptabelne wabjenje wróćo stajić. Prošu přepruwujće swoje filtrowe lisćiny a nastajenja za akceptabelne wabjenje w <a>nastajenjach AdvertiBlock</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Wužiwaće staru wersiju Safari, kotraž se přez Adblock Plus njepodpěruje. Wón njebudźe snano korektnje fungować abo wužiwarske dožiwjenje na wěstach websydłach kazyć. Poručujemy wuraznje, zo pak aktualizujeće na Safari 6.1.1 abo wyši (k dispoziciji za Mac OS X 10.8 Lion) abo na Safari 7.0.1 abo wyši (na OS X 10.9 Mavericks) pak wužiwaće najnowšu wersiju Mozilla Firefox, Google Chrome abo Opera."
+    "message": "Wužiwaće staru wersiju Safari, kotraž se přez AdvertiBlock njepodpěruje. Wón njebudźe snano korektnje fungować abo wužiwarske dožiwjenje na wěstach websydłach kazyć. Poručujemy wuraznje, zo pak aktualizujeće na Safari 6.1.1 abo wyši (k dispoziciji za Mac OS X 10.8 Lion) abo na Safari 7.0.1 abo wyši (na OS X 10.9 Mavericks) pak wužiwaće najnowšu wersiju Mozilla Firefox, Google Chrome abo Opera."
   },
   "firstRun_share": {
     "message": "Informujće swojich přećelow"
@@ -51,7 +51,7 @@
     "message": "<a>Podajće nam ruku</a>, zo bychmy web k lěpšemu městnu činili"
   },
   "firstRun_title": {
-    "message": "Adblock Plus je so instalował"
+    "message": "AdvertiBlock je so instalował"
   },
   "firstRun_toggle_off": {
     "message": "WUPINJENY"

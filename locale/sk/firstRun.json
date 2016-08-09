@@ -45,13 +45,13 @@
     "message": "Prechádzať súkromne vypnutím sledovania - skryť vaše skladby z reklamné spoločnosti, ktoré by sledovali každý váš pohyb."
   },
   "firstRun_features": {
-    "message": "Adblock Plus môže urobiť viac, ako blokovať reklamy"
+    "message": "AdvertiBlock môže urobiť viac, ako blokovať reklamy"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Zdá sa, že problém spôsobil, že všetky filtre boli odstránené a nie sme schopní obnoviť zálohu. Preto sme museli resetovať vaše filtre a prijateľné nastavenia reklám. Prosím, skontrolujte filter zoznamov a prijateľné nastavenia reklamy v <a>Nastavenia Adblock Plus</a>."
+    "message": "Zdá sa, že problém spôsobil, že všetky filtre boli odstránené a nie sme schopní obnoviť zálohu. Preto sme museli resetovať vaše filtre a prijateľné nastavenia reklám. Prosím, skontrolujte filter zoznamov a prijateľné nastavenia reklamy v <a>Nastavenia AdvertiBlock</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Používate starú verziu Safari, ktorá nepodporuje Adblock Plus. Nemusel by pracovať správne alebo  by mohol narušiť používateľské skúsenosti na niektorých webových stránkach. Dôrazne odporúčame aktualizovať na Safari 6.1.1 alebo vyšší (k dispozícii pre Mac OS X 10,8 Mountain Lion), alebo Safari 7.0.1 a vyššie (pre OS X 10.9 Mavericks), alebo použiť najnovšiu verziu Mozilla Firefox, Google Chrome alebo Opera."
+    "message": "Používate starú verziu Safari, ktorá nepodporuje AdvertiBlock. Nemusel by pracovať správne alebo  by mohol narušiť používateľské skúsenosti na niektorých webových stránkach. Dôrazne odporúčame aktualizovať na Safari 6.1.1 alebo vyšší (k dispozícii pre Mac OS X 10,8 Mountain Lion), alebo Safari 7.0.1 a vyššie (pre OS X 10.9 Mavericks), alebo použiť najnovšiu verziu Mozilla Firefox, Google Chrome alebo Opera."
   },
   "firstRun_share": {
     "message": "Povedzte svojim priateľom"
@@ -60,6 +60,6 @@
     "message": "<a>Pomuožte nám</a> urobiť web lepším miestom"
   },
   "firstRun_title": {
-    "message": "Adblock Plus bol nainštalovaný"
+    "message": "AdvertiBlock bol nainštalovaný"
   }
 }

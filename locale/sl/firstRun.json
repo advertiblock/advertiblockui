@@ -45,13 +45,13 @@
     "message": "Brskajte zasebno z onemogočanjem sledenja - skrijte svoje sledi pred oglaševalcem, ki vam lahko sledijo na vsakem koraku."
   },
   "firstRun_features": {
-    "message": "Adblock Plus zmore več kot le blokirati oglase"
+    "message": "AdvertiBlock zmore več kot le blokirati oglase"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Očitno so bili zaradi težave vsi filtri odstranjeni in varnostne kopije ni bilo mogoče obnoviti. Zato smo ponastavili vaše nastavitve filtrov in dovoljenih oglasov. Prosimo, preverite svoj seznam filtrov in nastavitve dovoljenih oglasov v <a>nastavitvah za Adblock Plus</a>."
+    "message": "Očitno so bili zaradi težave vsi filtri odstranjeni in varnostne kopije ni bilo mogoče obnoviti. Zato smo ponastavili vaše nastavitve filtrov in dovoljenih oglasov. Prosimo, preverite svoj seznam filtrov in nastavitve dovoljenih oglasov v <a>nastavitvah za AdvertiBlock</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Uporabljate staro različico Safarija, ki je Adblock Plus ne podpira. Morda ne bo pravilno deloval ali bo poslabšal uporabniško izkušnjo na nekaterih spletnih straneh. Močno priporočamo, da nadgradite na Safari 6.1.1 ali novejšega (na OS X 10.8 Mountain Lion), Safari 7.0.1 ali novejšega (na OS X 10.9 Mavericks), ali da uporabljate najnovejšo različico Mozille Firefox, Google Chroma ali Opere."
+    "message": "Uporabljate staro različico Safarija, ki je AdvertiBlock ne podpira. Morda ne bo pravilno deloval ali bo poslabšal uporabniško izkušnjo na nekaterih spletnih straneh. Močno priporočamo, da nadgradite na Safari 6.1.1 ali novejšega (na OS X 10.8 Mountain Lion), Safari 7.0.1 ali novejšega (na OS X 10.9 Mavericks), ali da uporabljate najnovejšo različico Mozille Firefox, Google Chroma ali Opere."
   },
   "firstRun_share": {
     "message": "Povejte svojim prijateljem"
@@ -60,7 +60,7 @@
     "message": "<a>Pomagajte nam</a> pri ustvarjanju boljšega spleta"
   },
   "firstRun_title": {
-    "message": "Adblock Plus je bil nameščen"
+    "message": "AdvertiBlock je bil nameščen"
   },
   "firstRun_toggle_off": {
     "message": "IZKLOP"

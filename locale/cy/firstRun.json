@@ -36,13 +36,13 @@
     "message": "Porwch yn breifat drwy analluogi tracio - cuddio'ch camau oddi wrth gwmniau hysbysebu fyddai'n tracio pob dim."
   },
   "firstRun_features": {
-    "message": "Gall Adblock Plus wneud mwy na rhwystro hysbysebion"
+    "message": "Gall AdvertiBlock wneud mwy na rhwystro hysbysebion"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Mae'n ymddangos bod nam wedi achosi i bob hidlydd gael ei ddileu ac ni allwn adfer copi wrth gefn. Felly bu'n rhaid i ni ailosod eich hidlyddion a gosodiadau Hysbysebion Derbyniol. Gwiriwch eich rhestri hidlo a gosodiadau Hysbysebion Derbyniol yng <a> ngosodiadau Adblock Plus</a>."
+    "message": "Mae'n ymddangos bod nam wedi achosi i bob hidlydd gael ei ddileu ac ni allwn adfer copi wrth gefn. Felly bu'n rhaid i ni ailosod eich hidlyddion a gosodiadau Hysbysebion Derbyniol. Gwiriwch eich rhestri hidlo a gosodiadau Hysbysebion Derbyniol yng <a> ngosodiadau AdvertiBlock</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Mae'n ymddangos eich bod yn defnyddio hen fersiwn o Safari nad yw Adblock Plus yn ei gefnogi. Efallai na fydd yn gweithio'n iawn neu'n ymharu ar brofiad y defnyddiwr ar rai wefannau. Rydym yn argymell naill ai diweddaru i Safari 6.1.1 neu'n uwch (ar OS X 10.8 Mountain Lion), neu Safari 7.0.1 neu'n uwch (ar OS X 10.9 Mavericks), neu ddefnyddio fersiwn diweddaraf Mozilla Firefox, Google Chrome neu Opera."
+    "message": "Mae'n ymddangos eich bod yn defnyddio hen fersiwn o Safari nad yw AdvertiBlock yn ei gefnogi. Efallai na fydd yn gweithio'n iawn neu'n ymharu ar brofiad y defnyddiwr ar rai wefannau. Rydym yn argymell naill ai diweddaru i Safari 6.1.1 neu'n uwch (ar OS X 10.8 Mountain Lion), neu Safari 7.0.1 neu'n uwch (ar OS X 10.9 Mavericks), neu ddefnyddio fersiwn diweddaraf Mozilla Firefox, Google Chrome neu Opera."
   },
   "firstRun_share": {
     "message": "Dywedwch wrth eich ffrindiau"
@@ -51,7 +51,7 @@
     "message": "<a>Rhowch help llaw</a> i ni wneud y we'n lle gwell"
   },
   "firstRun_title": {
-    "message": "Mae Adblock Plus wedi'i osod"
+    "message": "Mae AdvertiBlock wedi'i osod"
   },
   "firstRun_toggle_off": {
     "message": "I FFWRDD"

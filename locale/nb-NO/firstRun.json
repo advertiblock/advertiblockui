@@ -45,13 +45,13 @@
     "message": "Vær privat på nettet ved å hindre sporing - gjem sporene dine fra reklameselskaper som ellers registrerer alt du gjør."
   },
   "firstRun_features": {
-    "message": "Adblock Plus kan gjøre mer enn å bare blokkere annonser"
+    "message": "AdvertiBlock kan gjøre mer enn å bare blokkere annonser"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Det kan se ut som at en feil i systemet gjorde at alle filtrene ble fjernet, og vi var ute av stand til å gjenopprette sikkerhetskopien. Vi har derfor måttet nullstille alle filtrene og innstillingene for Akseptable annonser. Vennligst kontroller filterlistene dine og innstillingene for Akseptable annonser i valgalternativene til <a>Adblock Plus options</a>."
+    "message": "Det kan se ut som at en feil i systemet gjorde at alle filtrene ble fjernet, og vi var ute av stand til å gjenopprette sikkerhetskopien. Vi har derfor måttet nullstille alle filtrene og innstillingene for Akseptable annonser. Vennligst kontroller filterlistene dine og innstillingene for Akseptable annonser i valgalternativene til <a>AdvertiBlock options</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Du bruker en gammel versjon av Safari som ikke støttes av Adblock Plus, og det kan hende Adblock Plus ikke fungerer, eller forverrer brukeropplevelsen på enkelte nettsteder. Vi anbefaler sterkt at du enten oppdaterer til Safari 6.1.1 eller nyere (tilgjengelig for Mac OS X 10.8 Mountain Lion), Safari 7.0.1 (tilgjengelig for OS X 10.9 Mavericks) eller nyere, eller bruker den nyeste versjonen av Mozilla Firefox, Google Chrome eller Opera."
+    "message": "Du bruker en gammel versjon av Safari som ikke støttes av AdvertiBlock, og det kan hende AdvertiBlock ikke fungerer, eller forverrer brukeropplevelsen på enkelte nettsteder. Vi anbefaler sterkt at du enten oppdaterer til Safari 6.1.1 eller nyere (tilgjengelig for Mac OS X 10.8 Mountain Lion), Safari 7.0.1 (tilgjengelig for OS X 10.9 Mavericks) eller nyere, eller bruker den nyeste versjonen av Mozilla Firefox, Google Chrome eller Opera."
   },
   "firstRun_share": {
     "message": "Fortell dette til vennene dine"
@@ -60,7 +60,7 @@
     "message": "<a>Hjelp oss</a> med å gjøre Internett til et bedre sted"
   },
   "firstRun_title": {
-    "message": "Adblock Plus har blitt installert"
+    "message": "AdvertiBlock har blitt installert"
   },
   "firstRun_toggle_off": {
     "message": "AV"

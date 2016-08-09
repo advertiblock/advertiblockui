@@ -36,10 +36,10 @@
     "message": "Keela Jälgimine"
   },
   "firstRun_features": {
-    "message": "Adblock Plus suudab teha enamat, kui reklaame blokeerida"
+    "message": "AdvertiBlock suudab teha enamat, kui reklaame blokeerida"
   },
   "firstRun_legacySafariWarning": {
-    "message": "Te kasutate vana Safari versiooni, mida Adblock Plus ei toeta. Adblock Plus ei pruugi korralikult töötada ning võib mõnedel lehekülgedel kasutaja kogemust halvendada. Me soovitame tungivalt uuendada Safarit versioonile 6.1.1 või uuemale (OS X 10.8 Mountain Lion operatsioonisüsteemi puhul), versioonile 7.0.1 või uuemale (OS X 10.9 operatsioonisüsteemi puhul) või kasutada järgmiste veebilehitsejate värskemaid versioone: Mozilla Firefox, Google Chrome, Opera."
+    "message": "Te kasutate vana Safari versiooni, mida AdvertiBlock ei toeta. AdvertiBlock ei pruugi korralikult töötada ning võib mõnedel lehekülgedel kasutaja kogemust halvendada. Me soovitame tungivalt uuendada Safarit versioonile 6.1.1 või uuemale (OS X 10.8 Mountain Lion operatsioonisüsteemi puhul), versioonile 7.0.1 või uuemale (OS X 10.9 operatsioonisüsteemi puhul) või kasutada järgmiste veebilehitsejate värskemaid versioone: Mozilla Firefox, Google Chrome, Opera."
   },
   "firstRun_share": {
     "message": "Räägi oma sõpradele"
@@ -48,7 +48,7 @@
     "message": "<a>Anna meile käsi</a> veebi muutmises paremaks kohaks"
   },
   "firstRun_title": {
-    "message": "Adblock Plus on paigaldatud"
+    "message": "AdvertiBlock on paigaldatud"
   },
   "firstRun_toggle_off": {
     "message": "VÄLJAS"

@@ -45,13 +45,13 @@
     "message": "Navegar em modo privado desabilitando o acompanhamento - esconde seus rastros de empresas de anúncio que iria acompanhar cada movimento seu."
   },
   "firstRun_features": {
-    "message": "O Adblock Plus pode fazer mais do que bloquear anúncios"
+    "message": "O AdvertiBlock pode fazer mais do que bloquear anúncios"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Parece que algum um problema causou a remoção de todos os filtros e fomos incapazes de restaurá-los por backup. Portanto tivemos que resetar seus filtros e as configurações de anúncios toleráveis. Por favor verifique a lista de filtros a as configurações de anúncios aceitáveis em <a>Opções do Adblock Plus</a>."
+    "message": "Parece que algum um problema causou a remoção de todos os filtros e fomos incapazes de restaurá-los por backup. Portanto tivemos que resetar seus filtros e as configurações de anúncios toleráveis. Por favor verifique a lista de filtros a as configurações de anúncios aceitáveis em <a>Opções do AdvertiBlock</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Você está usando uma versão antiga do Safari não suportada pelo Adblock Plus. Ele pode não funcionar corretamente ou prejudicar a experiência do usuário em alguns sites. Recomendamos fortemente atualizar para o Safari 6.1.1 ou superior (no OS X 10.8 Mountain Lion) ou Safari 7.0.1 ou superior (no OS X 10.9 Mavericks), ou usar a última versão do Mozilla Firefox, Google Chrome ou Opera."
+    "message": "Você está usando uma versão antiga do Safari não suportada pelo AdvertiBlock. Ele pode não funcionar corretamente ou prejudicar a experiência do usuário em alguns sites. Recomendamos fortemente atualizar para o Safari 6.1.1 ou superior (no OS X 10.8 Mountain Lion) ou Safari 7.0.1 ou superior (no OS X 10.9 Mavericks), ou usar a última versão do Mozilla Firefox, Google Chrome ou Opera."
   },
   "firstRun_share": {
     "message": "Indique a seus amigos"
@@ -60,7 +60,7 @@
     "message": "<a>Ajude-nos</a> a tornar a web um lugar melhor"
   },
   "firstRun_title": {
-    "message": "O Adblock Plus foi instalado"
+    "message": "O AdvertiBlock foi instalado"
   },
   "firstRun_toggle_off": {
     "message": "DESLIGADO"

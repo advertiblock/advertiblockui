@@ -45,13 +45,13 @@
     "message": "Selaa yksityisesti estämällä seuraaminen - piilota jälkesi mainosyhtiöiltä, jotka muuten seuraavat jokaista liikettäsi."
   },
   "firstRun_features": {
-    "message": "Adblock Plus voi tehdä muutakin kuin vain estää mainoksia"
+    "message": "AdvertiBlock voi tehdä muutakin kuin vain estää mainoksia"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Näyttäisi siltä, että ongelman takia kaikki suodattimet on poistettu ja niiden palauttaminen varmuuskopiosta epäonnistui. Tämän vuoksi kaikki suodattimien ja hyväksyttävien mainosten asetukset on palautettu alkuarvoihin. Tarkasta suodatinlistat ja hyväksyttävien mainosten asetukset <a>Adblock Plussan asetuksista</a>."
+    "message": "Näyttäisi siltä, että ongelman takia kaikki suodattimet on poistettu ja niiden palauttaminen varmuuskopiosta epäonnistui. Tämän vuoksi kaikki suodattimien ja hyväksyttävien mainosten asetukset on palautettu alkuarvoihin. Tarkasta suodatinlistat ja hyväksyttävien mainosten asetukset <a>AdvertiBlocksan asetuksista</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Käytössäsi on Safarin vanha versio, jota Adblock Plus ei tue. Se ei välttämättä toimi oikein tai saattaa heikentää joidenkin sivustojen käyttökokemusta. Suosittelemme vahvasti päivittämään Safari 6.1.1:een tai uudempaan (OSX 10.8 Mountain Lion), tai Safari 7.0.1:een tai uudempaan (OSX 10.9 Mavericks), tai käyttämään Mozilla Firefoxin, Google Chromen tai Operan uusinta versiota."
+    "message": "Käytössäsi on Safarin vanha versio, jota AdvertiBlock ei tue. Se ei välttämättä toimi oikein tai saattaa heikentää joidenkin sivustojen käyttökokemusta. Suosittelemme vahvasti päivittämään Safari 6.1.1:een tai uudempaan (OSX 10.8 Mountain Lion), tai Safari 7.0.1:een tai uudempaan (OSX 10.9 Mavericks), tai käyttämään Mozilla Firefoxin, Google Chromen tai Operan uusinta versiota."
   },
   "firstRun_share": {
     "message": "Kerro ystävillesi"
@@ -60,6 +60,6 @@
     "message": "<a>Auta meitä</a> tekemään verkosta parempi paikka"
   },
   "firstRun_title": {
-    "message": "Adblock Plus on asennettu"
+    "message": "AdvertiBlock on asennettu"
   }
 }
