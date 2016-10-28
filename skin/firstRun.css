@@ -410,12 +410,14 @@ section > p
 #share-chinese:lang(zh)
 {
   display: block;
+  text-align: center;
 }
 
 #share-general:lang(zh),
 #share-chinese
 {
   display: none;
+  text-align: center;
 }
 
 #share-chinese > a
