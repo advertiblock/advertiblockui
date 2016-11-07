@@ -45,7 +45,7 @@
     "message": "Zakázáním sledování si zachovejte soukromí při prohlížení - zakryjte své stopy před reklamními společnostmi, které by jinak sladovali každičký Váš pohyb."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock toho umí více než jen blokovat reklamy"
+    "message": "Adshark toho umí více než jen blokovat reklamy"
   },
   "firstRun_filterlistsReinitializedWarning": {
     "message": "Zdá se, že nastal problém, který způsobil smazání všech filtrů a nebyli jsme schopni je obnovit ze zálohy. Museli jsme tudíž Vaše filtry a nastavení Přijatelných reklam resetovat. Prosím zkontrolujte si své nastavení seznamů filtrů a Přijatelných reklam v <a>předvolbách Adblocku Plus</a>."
@@ -60,7 +60,7 @@
     "message": "<a>Pomožte nám</a> učinit web lepším"
   },
   "firstRun_title": {
-    "message": "AdvertiBlock byl nainstalován"
+    "message": "Adshark byl nainstalován"
   },
   "firstRun_toggle_off": {
     "message": "VYPNUTO"

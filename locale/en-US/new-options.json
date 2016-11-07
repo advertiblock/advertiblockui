@@ -1,7 +1,7 @@
 {
   "options_page_title": {
     "description": "Options page title",
-    "message": "Advertiblock Options"
+    "message": "Adshark Options"
   },
   "options_page_header_1": {
     "description": "Page title in navigation sidebar",
@@ -9,7 +9,7 @@
   },
   "options_page_header_2": {
     "description": "Name of extension in navigation sidebar",
-    "message": "Advertiblock"
+    "message": "Adshark"
   },
   "options_tab_general": {
     "description": "Name in sidebar for General tab",
@@ -32,7 +32,7 @@
     "message": "Share"
   },
   "options_tab_contribute": {
-    "description": "Button in navigation sidebar to support Advertiblock",
+    "description": "Button in navigation sidebar to support Adshark",
     "message": "Support us"
   },
   "options_readMore": {
@@ -57,7 +57,7 @@
   },
   "options_language_title_tooltip_notes_2": {
     "description": "Second bottom part of tooltip description for 'Adblocking' section in General tab",
-    "message": "If you still see ads, please report them in our Advertiblock sub-forum under <strong>Help > Forum > Filters for Advertiblock</strong>."
+    "message": "If you still see ads, please report them in our Adshark sub-forum under <strong>Help > Forum > Filters for Adshark</strong>."
   },
   "options_language_add": {
     "description": "Add other language button in General Tab",
@@ -69,7 +69,7 @@
   },
   "options_more_title_tooltip_1": {
     "description": "Tooltip description for 'More blocking options' section in General tab",
-    "message": "By default, Advertiblock blocks all annoying ads, including video ads, animated ads, noisy ads, flashy banners, pop-ups, pop-unders and much more. In addition to ads, Advertiblock can also block tracking, malware, social media buttons and more to increase your safety and privacy online."
+    "message": "By default, Adshark blocks all annoying ads, including video ads, animated ads, noisy ads, flashy banners, pop-ups, pop-unders and much more. In addition to ads, Adshark can also block tracking, malware, social media buttons and more to increase your safety and privacy online."
   },
   "options_popular": {
     "description": "Popular label in further blocking options table",
@@ -89,16 +89,16 @@
     "message": "If your computer is slow at startup or riddled with pop-ups, it may be infected with malware. Computers infected with malware are vulnerable to all kinds of cyber attacks, including stolen identity. Infected computers can also be used to send spam emails or attack other computers or servers, stealing passwords, social security numbers, personal documents and credit card information."
   },
   "options_more_privacy_tooltip_1": {
-    "message": "Advertiblock can disable tracking (e.g. from ad agencies) to further protect your privacy on the web."
+    "message": "Adshark can disable tracking (e.g. from ad agencies) to further protect your privacy on the web."
   },
   "options_more_privacy_tooltip_2": {
-    "message": "Companies such as ad agencies are tracking your online activity and browsing history every time you surf the web. According to Stanford University research, Advertiblock is the most efficient solution available against third-party tracking companies."
+    "message": "Companies such as ad agencies are tracking your online activity and browsing history every time you surf the web. According to Stanford University research, Adshark is the most efficient solution available against third-party tracking companies."
   },
   "options_more_privacy_tooltip_notes_1": {
     "message": "Note that this feature may conflict with Acceptable Ads, which allows some nonintrusive ads to be displayed, as well as the tracking that is needed to measure the performance of those ads. This is necessary because some websites only earn revenue from ads if their impact can be measured."
   },
   "options_more_social_tooltip_1": {
-    "message": "Advertiblock can disable social media buttons on websites, ensuring that social networks can’t create a profile based on the websites you visit."
+    "message": "Adshark can disable social media buttons on websites, ensuring that social networks can’t create a profile based on the websites you visit."
   },
   "options_more_social_tooltip_2": {
     "message": "Buttons used to share content on social media platforms such as Facebook, Twitter, Google Plus and others are placed on almost every website that you visit. Even if you don't click them, these buttons send requests to the servers of the social network which use information to create a profile based on your browsing habits."
@@ -145,7 +145,7 @@
   },
   "options_whitelisted_title_tooltip_2": {
     "description": "Second top part of tooltip description for 'Whitelisted domains' section in General tab",
-    "message": "This means that Advertiblock is completely deactivated on the whitelisted site. Ads and other annoyances, such as tracking scripts, may be activated."
+    "message": "This means that Adshark is completely deactivated on the whitelisted site. Ads and other annoyances, such as tracking scripts, may be activated."
   },
   "options_whitelisted_title_tooltip_notes_1": {
     "description": "Bottom part of tooltip description for 'Whitelisted domains' section in General tab",
@@ -169,7 +169,7 @@
   },
   "options_tweaks_showDevToolsPanel": {
     "description": "Show developer tools panel option in Advanced tab",
-    "message": "Show 'Advertiblock' panel in the developer tools"
+    "message": "Show 'Adshark' panel in the developer tools"
   },
   "options_tweaks_showNotifications": {
     "description": "Notification opt-out option in Advanced tab",
@@ -193,11 +193,11 @@
   },
   "options_filterList_title_tooltip_notes_1": {
     "description": "First bottom part of tooltip description for 'Filter lists' section in Advanced tab",
-    "message": "Filter lists are the heart of Advertiblock, providing its functionality. In order for any feature of Advertiblock to take effect, at least one filter list needs to be activated. These filter lists are not owned by Advertiblock, but created by international volunteers, who also create the filter rules. A few of these filter lists are mentioned as examples in Advertiblock."
+    "message": "Filter lists are the heart of Adshark, providing its functionality. In order for any feature of Adshark to take effect, at least one filter list needs to be activated. These filter lists are not owned by Adshark, but created by international volunteers, who also create the filter rules. A few of these filter lists are mentioned as examples in Adshark."
   },
   "options_filterList_title_tooltip_notes_2": {
     "description": "Second bottom part of tooltip description for 'Filter lists' section in Advanced tab",
-    "message": "Advertiblock provides free hosting for popular filter lists. If you would like to create or maintain a filter list which is not yet provided by Advertiblock, we would be more than happy to assist you with the hosting. Contact us at <strong>Help > Forum > Filters for Advertiblock</strong>."
+    "message": "Adshark provides free hosting for popular filter lists. If you would like to create or maintain a filter list which is not yet provided by Adshark, we would be more than happy to assist you with the hosting. Contact us at <strong>Help > Forum > Filters for Adshark</strong>."
   },
   "options_tab_overview": {
     "description": "Tab name in Advanced tab",
@@ -313,7 +313,7 @@
   },
   "options_forum_link": {
     "description": "Forum section link in Help tab",
-    "message": "Advertiblock support forum"
+    "message": "Adshark support forum"
   },
   "options_media_title": {
     "description": "Social media Section name in Help tab",
@@ -321,7 +321,7 @@
   },
   "options_media_description": {
     "description": "Social media section description in Help tab",
-    "message": "If there are major problems with Advertiblock which affects all of our users, we tell you in our social media channels."
+    "message": "If there are major problems with Adshark which affects all of our users, we tell you in our social media channels."
   },
   "options_dialog_predefined_confirm": {
     "description": "Confirming to add a predefined subscription when asked in a dialog",

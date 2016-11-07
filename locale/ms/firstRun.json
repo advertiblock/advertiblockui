@@ -45,13 +45,13 @@
     "message": "Melayar secara bebas dengan melumpuhkan pengesanan - menyembunyikan anda dari syarikat-syarikat iklan yang akan menjejaki setiap langkah anda."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock boleh melakukan lebih daripada menghalang iklan"
+    "message": "Adshark boleh melakukan lebih daripada menghalang iklan"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Terdapat isu yang menyebabkan semua penapisan telah ditanggalkan dan kami tidak dapat memasukkan semula maklumat sokongan. Dengan itu kami perlu melaras semula penapisan serta tetapan Iklan Yang Diterima. Sila periksa senarai penapisan dan tetapan Iklan Yang Diterima di dalam <a>Pilihan AdvertiBlock</a>."
+    "message": "Terdapat isu yang menyebabkan semua penapisan telah ditanggalkan dan kami tidak dapat memasukkan semula maklumat sokongan. Dengan itu kami perlu melaras semula penapisan serta tetapan Iklan Yang Diterima. Sila periksa senarai penapisan dan tetapan Iklan Yang Diterima di dalam <a>Pilihan Adshark</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Anda menggunakan versi lama Safari yang tidak disokong oleh AdvertiBlock. Ia mungkin tidak berfungsi dengan betul atau menjejaskan pengalaman pengguna di sesetengah laman sesawang. Kami amat mengesyorkan sama ada mengemaskini kepada Safari 6.1.1 atau lebih tinggi (bagi Mac OS X 10.8 Mountain Lion) atau Safari 7.0.1 pada yang lebih tinggi (OS X 10.9 Mavericks), atau gunakan versi terkini pelayar Mozilla Firefox, Google Chrome atau Opera."
+    "message": "Anda menggunakan versi lama Safari yang tidak disokong oleh Adshark. Ia mungkin tidak berfungsi dengan betul atau menjejaskan pengalaman pengguna di sesetengah laman sesawang. Kami amat mengesyorkan sama ada mengemaskini kepada Safari 6.1.1 atau lebih tinggi (bagi Mac OS X 10.8 Mountain Lion) atau Safari 7.0.1 pada yang lebih tinggi (OS X 10.9 Mavericks), atau gunakan versi terkini pelayar Mozilla Firefox, Google Chrome atau Opera."
   },
   "firstRun_share": {
     "message": "Beritahu rakan anda"
@@ -60,7 +60,7 @@
     "message": "<a>Berikan bantuan</a> menjadikan laman sesawang tempat yang lebih baik"
   },
   "firstRun_title": {
-    "message": "AdvertiBlock telah dipasang"
+    "message": "Adshark telah dipasang"
   },
   "firstRun_toggle_off": {
     "message": "MATI"

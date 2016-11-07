@@ -45,13 +45,13 @@
     "message": "Przeglądaj, zachowując prywatność poprzez wyłączenie śledzenia, ukrywając swoje ślady przed firmami reklamowymi, które chciałyby śledzić każdy twój ruch."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock umożliwia więcej niż blokowanie reklam"
+    "message": "Adshark umożliwia więcej niż blokowanie reklam"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Wygląda na to, że w wyniku błędu wszystkie filtry zostały usunięte i nie udało się ich przywrócić z kopii zapasowej, dlatego twoje filtry i ustawienia akceptowalnych reklam zostały zresetowane. Sprawdź swoje listy filtrów i ustawienia akceptowalnych reklam w <a>opcjach AdvertiBlocka</a>."
+    "message": "Wygląda na to, że w wyniku błędu wszystkie filtry zostały usunięte i nie udało się ich przywrócić z kopii zapasowej, dlatego twoje filtry i ustawienia akceptowalnych reklam zostały zresetowane. Sprawdź swoje listy filtrów i ustawienia akceptowalnych reklam w <a>opcjach Adsharka</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Używasz starej, nie obsługiwanej już przez AdvertiBlocka wersji Safari. Może to powodować nieprawidłowe działanie lub zakłócać przeglądanie niektórych witryn. Zalecamy uaktualnienie Safari w systemie OS X Mountain Lion do wersji 6.1.1 lub nowszej, lub do wersji 7.0.1 lub nowszej w systemie OS X 10.9 Maverick. Możesz także użyć najnowszych wersji przeglądarek Firefox, Chrome lub Opera."
+    "message": "Używasz starej, nie obsługiwanej już przez Adsharka wersji Safari. Może to powodować nieprawidłowe działanie lub zakłócać przeglądanie niektórych witryn. Zalecamy uaktualnienie Safari w systemie OS X Mountain Lion do wersji 6.1.1 lub nowszej, lub do wersji 7.0.1 lub nowszej w systemie OS X 10.9 Maverick. Możesz także użyć najnowszych wersji przeglądarek Firefox, Chrome lub Opera."
   },
   "firstRun_share": {
     "message": "Powiedz znajomym"
@@ -60,7 +60,7 @@
     "message": "<a>Pomóż nam</a> uczynić internet lepszym miejscem"
   },
   "firstRun_title": {
-    "message": "AdvertiBlock został zainstalowany"
+    "message": "Adshark został zainstalowany"
   },
   "firstRun_toggle_off": {
     "message": "WYŁ."

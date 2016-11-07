@@ -45,13 +45,13 @@
     "message": "גלשו באנונימיות בעזרת נטרול מעקב - הסתרת עקבותיכם מחברות המודעות אשר עוקבות אחר כל פעולה שלכם."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock יכול לעשות יותר מרק לחסום פרסומות"
+    "message": "Adshark יכול לעשות יותר מרק לחסום פרסומות"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "נראה שישנה בעיה שגרמה לכל המסננים להימחק ולא היה ביכולתנו לגבות אותם. לכן נאלצנו לאפס את המסננים ואת הגדרות המודעות המקובלות. נא בדקו את רשימת המסננים והגדרות המודעות המקובלות ב <a>AdvertiBlock אפשרויות</a>."
+    "message": "נראה שישנה בעיה שגרמה לכל המסננים להימחק ולא היה ביכולתנו לגבות אותם. לכן נאלצנו לאפס את המסננים ואת הגדרות המודעות המקובלות. נא בדקו את רשימת המסננים והגדרות המודעות המקובלות ב <a>Adshark אפשרויות</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "הנכם משתמשים בגירסה ישנה של Safari שלא נתמכת על ידי AdvertiBlock. זה עלול לא לעבוד כראוי או לשבש את חווית המשתמש בחלק מהאתרים. אנו ממליצים לכם לעדכן את Safari לגרסה 6.1.1 ומעלה (OS X 10.8 Mountain Lion) או Safari 7.0.1 ומעלה (OS X 10.9 Mavericks) או להשתמש בגרסה האחרונה של Mozilla Firefox, Google Chrome or Opera."
+    "message": "הנכם משתמשים בגירסה ישנה של Safari שלא נתמכת על ידי Adshark. זה עלול לא לעבוד כראוי או לשבש את חווית המשתמש בחלק מהאתרים. אנו ממליצים לכם לעדכן את Safari לגרסה 6.1.1 ומעלה (OS X 10.8 Mountain Lion) או Safari 7.0.1 ומעלה (OS X 10.9 Mavericks) או להשתמש בגרסה האחרונה של Mozilla Firefox, Google Chrome or Opera."
   },
   "firstRun_share": {
     "message": "ספרו לחבריכם ומשפחתכם"
@@ -60,7 +60,7 @@
     "message": "<a>תנו לנו יד</a> בהפיכת הרשת למקום טוב יותר"
   },
   "firstRun_title": {
-    "message": "AdvertiBlock הותקן "
+    "message": "Adshark הותקן "
   },
   "firstRun_toggle_off": {
     "message": "מכובה"

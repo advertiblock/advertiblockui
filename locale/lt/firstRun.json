@@ -45,13 +45,13 @@
     "message": "Išjunkite sekimą ir paverskite savo naršymą privačiu - paslėpkite savo pėdsakus nuo reklamos įmonių kurios galbūt seka kiekvieną jūsų žingsnį."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock gali daugiau nei tik blokuoti reklamas"
+    "message": "Adshark gali daugiau nei tik blokuoti reklamas"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Dėl klaidos visi filtrai buvo pašalinti, todėl mes negalime atkurti atsarginės kopijos. Taip pat filtrai ir priimtinų reklamų nustatymai nustatyti iš naujo. Prašome pasitikrinti jūsų filtrų sąrašus ir priimtinų reklamų nustatymus<a>AdvertiBlock nustatymuose</a>."
+    "message": "Dėl klaidos visi filtrai buvo pašalinti, todėl mes negalime atkurti atsarginės kopijos. Taip pat filtrai ir priimtinų reklamų nustatymai nustatyti iš naujo. Prašome pasitikrinti jūsų filtrų sąrašus ir priimtinų reklamų nustatymus<a>Adshark nustatymuose</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Jūs naudojate seną Safari versiją, kurios AdvertiBlock nepalaiko. AdvertiBlock gali veikti netinkamai ar sukelti problemų. Rekomenduojame naudoti Safari 6.1.1 ar naujesnę versiją (prieinama Mac OS X 10.9 Mavericks) arba naudokite naujausią Mozilla Firefox, Google Chrome ar Opera."
+    "message": "Jūs naudojate seną Safari versiją, kurios Adshark nepalaiko. Adshark gali veikti netinkamai ar sukelti problemų. Rekomenduojame naudoti Safari 6.1.1 ar naujesnę versiją (prieinama Mac OS X 10.9 Mavericks) arba naudokite naujausią Mozilla Firefox, Google Chrome ar Opera."
   },
   "firstRun_share": {
     "message": "Papasakokite savo draugams"
@@ -60,7 +60,7 @@
     "message": "<a>Padėkite mums</a> paversti internetą geresne vieta"
   },
   "firstRun_title": {
-    "message": "AdvertiBlock sėkmingai įdiegta"
+    "message": "Adshark sėkmingai įdiegta"
   },
   "firstRun_toggle_off": {
     "message": "IŠJ."

@@ -45,13 +45,13 @@
     "message": "Böngésszen privátban azáltal, hogy letiltja a követést - elrejtheti nyomait a reklámcégek elől, amelyek egyébként figyelnék minden lépését."
   },
   "firstRun_features": {
-    "message": "Az AdvertiBlock a reklámok blokkolásánál többre is képes"
+    "message": "Az Adshark a reklámok blokkolásánál többre is képes"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Egy hiba miatt az összes szűrő eltávolításra került és a biztonsági másolatot sem sikerült visszaállítani. Az összes szűrő és az elfogadható hirdetések beállításai alapállapotba kerültek. Kérem ellenőrizze a szűrő listákat és az elfogadható hirdetések beállításait az <a>AdvertiBlock opció</a> közt."
+    "message": "Egy hiba miatt az összes szűrő eltávolításra került és a biztonsági másolatot sem sikerült visszaállítani. Az összes szűrő és az elfogadható hirdetések beállításai alapállapotba kerültek. Kérem ellenőrizze a szűrő listákat és az elfogadható hirdetések beállításait az <a>Adshark opció</a> közt."
   },
   "firstRun_legacySafariWarning": {
-    "message": "A Safari egy régi verzióját használja, amelyet nem támogat az AdvertiBlock. Lehetséges, hogy nem fog megfelelően működni vagy lelassítja a működést egyes weboldalakon. Erősen ajánlott frissíteni a Safari 6.1.1-es (Mac OS X 10.8 Mountain Lion operációs rendszeren) , vagy a Safari 7.0.1-es és újabb verzióira (OS X 10.9 Maverics operációs rendszertől) vagy használja a Mozilla Firefox, Google Chrome vagy Opera legújabb verzióját."
+    "message": "A Safari egy régi verzióját használja, amelyet nem támogat az Adshark. Lehetséges, hogy nem fog megfelelően működni vagy lelassítja a működést egyes weboldalakon. Erősen ajánlott frissíteni a Safari 6.1.1-es (Mac OS X 10.8 Mountain Lion operációs rendszeren) , vagy a Safari 7.0.1-es és újabb verzióira (OS X 10.9 Maverics operációs rendszertől) vagy használja a Mozilla Firefox, Google Chrome vagy Opera legújabb verzióját."
   },
   "firstRun_share": {
     "message": "Mondja el barátainak"
@@ -60,7 +60,7 @@
     "message": "<a>Segítsen nekünk</a> jobb hellyé tenni a világhálót"
   },
   "firstRun_title": {
-    "message": "Sikeresen telepítette az AdvertiBlock-t"
+    "message": "Sikeresen telepítette az Adshark-t"
   },
   "firstRun_toggle_off": {
     "message": "KIKAPCSOLVA"

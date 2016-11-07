@@ -45,13 +45,13 @@
     "message": "Surf privé door ‘tracking’ uit te schakelen - verberg uw gegevens voor advertentiebedrijven die uw surfgedrag zouden volgen."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock kan meer doen dan advertenties blokkeren"
+    "message": "Adshark kan meer doen dan advertenties blokkeren"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Het lijkt erop dat door een probleem alle filters zijn verwijderd, en we konden geen back-up terugzetten. Hierdoor hebben we al uw filters en instellingen voor Acceptabele advertenties moeten herinitialiseren. Controleer uw instellingen in de <a>AdvertiBlock-opties</a>."
+    "message": "Het lijkt erop dat door een probleem alle filters zijn verwijderd, en we konden geen back-up terugzetten. Hierdoor hebben we al uw filters en instellingen voor Acceptabele advertenties moeten herinitialiseren. Controleer uw instellingen in de <a>Adshark-opties</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "U gebruikt een oude versie van Safari die niet door AdvertiBlock wordt ondersteund. Mogelijk werkt dit niet goed of wordt de gebruikersbeleving benadeeld. We raden aan een update naar Safari 6.1.1 of hoger (op Mac OS X 10.8 Mountain Lion) of Safari 7.0.1 of hoger (op Mac OS X 10.9 Mavericks) uit te voeren, of de nieuwste versie van Mozilla Firefox, Google Chrome of Opera te gebruiken."
+    "message": "U gebruikt een oude versie van Safari die niet door Adshark wordt ondersteund. Mogelijk werkt dit niet goed of wordt de gebruikersbeleving benadeeld. We raden aan een update naar Safari 6.1.1 of hoger (op Mac OS X 10.8 Mountain Lion) of Safari 7.0.1 of hoger (op Mac OS X 10.9 Mavericks) uit te voeren, of de nieuwste versie van Mozilla Firefox, Google Chrome of Opera te gebruiken."
   },
   "firstRun_share": {
     "message": "Vertel uw vrienden"
@@ -60,7 +60,7 @@
     "message": "<a>Help ons</a> van het web een betere plek te maken"
   },
   "firstRun_title": {
-    "message": "AdvertiBlock is geïnstalleerd"
+    "message": "Adshark is geïnstalleerd"
   },
   "firstRun_toggle_off": {
     "message": "UIT"

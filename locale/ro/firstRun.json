@@ -45,13 +45,13 @@
     "message": "Navigare fără urme prin eliminarea indiciilor plantate de către companiile publicitare care urmăresc și înregistrează comportamentul dumneavoastră."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock poate face mai mult decât să blocheze publicitatea"
+    "message": "Adshark poate face mai mult decât să blocheze publicitatea"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Se pare că din cauza unor probleme toate filtrele au fost eliminate şi a fost imposibil să le recuperăm. Prin urmare, am resetat filtrele şi setările pentru publicitate acceptabilă. Vă rugăm să verificaţi listele de filtre şi setările pentru publicitate acceptabilă în <a>Opţiuni pentru AdvertiBlock</a>."
+    "message": "Se pare că din cauza unor probleme toate filtrele au fost eliminate şi a fost imposibil să le recuperăm. Prin urmare, am resetat filtrele şi setările pentru publicitate acceptabilă. Vă rugăm să verificaţi listele de filtre şi setările pentru publicitate acceptabilă în <a>Opţiuni pentru Adshark</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Folosiți o versiune veche de Safari care nu este suportată de AdvertiBlock. Aceasta putea funcționa incorect sau ar putea afecta navigarea pe unele site-uri. Vă recomandăm insistent să instalați cel puțin Safari 6.1.1 (pe sistemul de operare Mac OS X 10.8 Mountain Lion), sau Safari 7.0.1 (pe OS X 10.9 Mavericks), sau să utilizați cea mai recentă versiune de Mozilla Firefox, Google Chrome, sau Opera."
+    "message": "Folosiți o versiune veche de Safari care nu este suportată de Adshark. Aceasta putea funcționa incorect sau ar putea afecta navigarea pe unele site-uri. Vă recomandăm insistent să instalați cel puțin Safari 6.1.1 (pe sistemul de operare Mac OS X 10.8 Mountain Lion), sau Safari 7.0.1 (pe OS X 10.9 Mavericks), sau să utilizați cea mai recentă versiune de Mozilla Firefox, Google Chrome, sau Opera."
   },
   "firstRun_share": {
     "message": "Spuneți prietenilor dumneavoastră"
@@ -60,6 +60,6 @@
     "message": "<a>Ajutați-ne</a> în a îmbunătăți web-ul"
   },
   "firstRun_title": {
-    "message": "AdvertiBlock a fost instalat"
+    "message": "Adshark a fost instalat"
   }
 }

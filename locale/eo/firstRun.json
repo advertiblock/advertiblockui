@@ -36,13 +36,13 @@
     "message": "Retumu private malebligante spuradon resp. kaŝante viajn spurojn antaŭ reklamfirmaoj, kiuj volonte spurus ĉiun el viaj movoj."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock povas fari pli multe ol bloki reklamon"
+    "message": "Adshark povas fari pli multe ol bloki reklamon"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Ŝajnas, ke problemo kaŭzis, ke ĉiuj filtroj estas forigitaj kaj ni ne\npovis restaŭri la sekurkopion. Tial ni devis remeti la agordojn por\nakceptebla reklamo. Bonvolu kontroli viajn filtrilajn listojn kaj\nagordojn por akceptebla reklamo en la <a>agordoj de AdvertiBlock</a>."
+    "message": "Ŝajnas, ke problemo kaŭzis, ke ĉiuj filtroj estas forigitaj kaj ni ne\npovis restaŭri la sekurkopion. Tial ni devis remeti la agordojn por\nakceptebla reklamo. Bonvolu kontroli viajn filtrilajn listojn kaj\nagordojn por akceptebla reklamo en la <a>agordoj de Adshark</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Vi uzas malnovan version de Safari, kiun AdvertiBlock ne subtenas. Eble ĝi ne korekte funkcios aŭ ĝenas la travivaĵon de uzanto sur kelkaj retejoj. Ni eksplicite rekomendas aŭ ĝisdatigi al Safari 6.1.1 aŭ pli alta versio (estas je dispono por Mac OS X 10.8 Mountain Lion) aŭ Safari 7.0.1 aŭ pli alta versio (estas je dispono por OS X 10.9 Mavericks) aŭ uzi la plej novan version de Mozilla Firefox, Google Chrome aŭ Opera."
+    "message": "Vi uzas malnovan version de Safari, kiun Adshark ne subtenas. Eble ĝi ne korekte funkcios aŭ ĝenas la travivaĵon de uzanto sur kelkaj retejoj. Ni eksplicite rekomendas aŭ ĝisdatigi al Safari 6.1.1 aŭ pli alta versio (estas je dispono por Mac OS X 10.8 Mountain Lion) aŭ Safari 7.0.1 aŭ pli alta versio (estas je dispono por OS X 10.9 Mavericks) aŭ uzi la plej novan version de Mozilla Firefox, Google Chrome aŭ Opera."
   },
   "firstRun_share": {
     "message": "Informu viajn amikojn"
@@ -51,7 +51,7 @@
     "message": "<a>Donu al ni manon</a>, por ke ni faru la reton pli bona loko"
   },
   "firstRun_title": {
-    "message": "AdvertiBlock instaliĝis"
+    "message": "Adshark instaliĝis"
   },
   "firstRun_toggle_off": {
     "message": "Malŝaltita"

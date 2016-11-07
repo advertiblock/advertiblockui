@@ -45,13 +45,13 @@
     "message": "Surfajte privatno tako što ćete onemogućiti praćenje - skrivanjem od reklamnih kompanija koje prate vaš svaki pokret."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock može učiniti mnogo više nego samo blokirati reklame"
+    "message": "Adshark može učiniti mnogo više nego samo blokirati reklame"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Izgleda da je greška uzrokovala uklanjanje svih filtra, a mi smo u nemogućnosti da ih vratimo. Zato smo postavili na početne postavke vaših filtra i prihvatljivih reklama. Provjerite postavke vaših popisa filtra i prihvatljivih reklama u <a>AdvertiBlock mogućnostima</a>."
+    "message": "Izgleda da je greška uzrokovala uklanjanje svih filtra, a mi smo u nemogućnosti da ih vratimo. Zato smo postavili na početne postavke vaših filtra i prihvatljivih reklama. Provjerite postavke vaših popisa filtra i prihvatljivih reklama u <a>Adshark mogućnostima</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Koristite stariju inačicu Safarija koja ne podržava AdvertiBlock. Možda neće ispravno raditi ili može narušiti korisničko iskustvo na nekim web stranicama. Stoga vam preporučamo nadogradnju na Safari 6.1.1 ili noviju inačicu (dostupnu za Mac OS X 10.8 Mountain Lion), ili Safari 7.0.1 ili noviju inačicu (za OS X 10.9 Mavericks), ili koristite najnoviju inačicu Mozilla Firefoxa, Google Chroma ili Opere."
+    "message": "Koristite stariju inačicu Safarija koja ne podržava Adshark. Možda neće ispravno raditi ili može narušiti korisničko iskustvo na nekim web stranicama. Stoga vam preporučamo nadogradnju na Safari 6.1.1 ili noviju inačicu (dostupnu za Mac OS X 10.8 Mountain Lion), ili Safari 7.0.1 ili noviju inačicu (za OS X 10.9 Mavericks), ili koristite najnoviju inačicu Mozilla Firefoxa, Google Chroma ili Opere."
   },
   "firstRun_share": {
     "message": "Recite svojim prijateljima"
@@ -60,7 +60,7 @@
     "message": "<a>Pomognite nam</a> pri stvaranju Interneta boljim mjestom"
   },
   "firstRun_title": {
-    "message": "AdvertiBlock je instaliran"
+    "message": "Adshark je instaliran"
   },
   "firstRun_toggle_off": {
     "message": "ISKLJUČI"

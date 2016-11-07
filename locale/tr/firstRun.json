@@ -45,13 +45,13 @@
     "message": "Her hareketinizi izleyen reklam şirketlerin adımlarınızı gizleyin. İnternette izlenmeyi devre dışı bırakarak gezin."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock reklamları engellemekten daha fazlasını yapabilir"
+    "message": "Adshark reklamları engellemekten daha fazlasını yapabilir"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Görünüşe göre bir sorun tüm filtrelerinizin kaldırılmasına neden olmuş ve yedeği geri yükleyemiyoruz. Bu yüzden filtrelerinizi ve Kabul Edilebilir Reklamlar ayarlarınızı sıfırlamamız gerekiyordu. Lütfen <a>AdvertiBlock seçenekleri</a> bölümünde filtre listelerinizi ve Kabul Edilebilir Reklamlar ayarlarınızı denetleyin."
+    "message": "Görünüşe göre bir sorun tüm filtrelerinizin kaldırılmasına neden olmuş ve yedeği geri yükleyemiyoruz. Bu yüzden filtrelerinizi ve Kabul Edilebilir Reklamlar ayarlarınızı sıfırlamamız gerekiyordu. Lütfen <a>Adshark seçenekleri</a> bölümünde filtre listelerinizi ve Kabul Edilebilir Reklamlar ayarlarınızı denetleyin."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Safari'nin AdvertiBlock tarafından desteklenmeyen eski bir sürümünü kullanıyorsunuz. Uygulama doğru şekilde çalışmayabilir veya bazı internet sitelerinde kullanıcı deneyimini olumsuz etkileyebilir. Sürümünüzü Safari 6.1.1 veya daha yüksek  (OS X 10.8 Mountain Lion için), ya da Safari 7.0.1 veya daha yüksek (OS X 10.9 Mavericks için) bir sürüme yükseltmenizi, veya Mozilla Firefox, Google  Chrome ya da Opera'nın en son sürümünü kullanmanızı önemle tavsiye ederiz."
+    "message": "Safari'nin Adshark tarafından desteklenmeyen eski bir sürümünü kullanıyorsunuz. Uygulama doğru şekilde çalışmayabilir veya bazı internet sitelerinde kullanıcı deneyimini olumsuz etkileyebilir. Sürümünüzü Safari 6.1.1 veya daha yüksek  (OS X 10.8 Mountain Lion için), ya da Safari 7.0.1 veya daha yüksek (OS X 10.9 Mavericks için) bir sürüme yükseltmenizi, veya Mozilla Firefox, Google  Chrome ya da Opera'nın en son sürümünü kullanmanızı önemle tavsiye ederiz."
   },
   "firstRun_share": {
     "message": "Arkadaşlarınıza bahsedin"
@@ -60,7 +60,7 @@
     "message": "İnterneti daha iyi bir yer yapabilmek için <a>bize elinizi uzatın</a>"
   },
   "firstRun_title": {
-    "message": "AdvertiBlock yüklendi"
+    "message": "Adshark yüklendi"
   },
   "firstRun_toggle_off": {
     "message": "KAPALI"

@@ -45,13 +45,13 @@
     "message": "Jarraitzea blokeatuz pribatuki nabigatu - Zure nondik norakoak  dena jakin nahi duten publizitate konpainiei ezkutatuz."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock iragarkiak blokeatzea baino gehiago egin dezake"
+    "message": "Adshark iragarkiak blokeatzea baino gehiago egin dezake"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Badirudi arazoren baten erruz iragazki guztiak ezabatu direla eta ezin izan dugu segurtasun kopia berreskuratu. Ondorioz zure iragazkiak berrezarri behar izan ditugu, baita iragarki onargarrien ezarpenak. Mesedez egiaztatu zure iragazki zerrenda eta iragarki onargarrien ezarpenak <a>AdvertiBlock aukerak</a> atalean."
+    "message": "Badirudi arazoren baten erruz iragazki guztiak ezabatu direla eta ezin izan dugu segurtasun kopia berreskuratu. Ondorioz zure iragazkiak berrezarri behar izan ditugu, baita iragarki onargarrien ezarpenak. Mesedez egiaztatu zure iragazki zerrenda eta iragarki onargarrien ezarpenak <a>Adshark aukerak</a> atalean."
   },
   "firstRun_legacySafariWarning": {
-    "message": "AdvertiBlock-ekin bateragarria ez den Safari nabigatzailearen bertsio zahar bat erabiltzen ari zara. Agian ez da behar bezala ibiliko, edo webgune batzuen erabilera oztopatuko du. Mesedez Safari 6.11 edo berriagoa den bertsio batetara eguneratu (Mac OS X 10.8 Mountain Lion bertsiotik aurrera eskuragarri dago) edo Safari 7.0.1 (OS X 10.9 Mavericks bertsioan), edo erabili Mozilla Firefox, Google Chrome edo Opera nabigatzaileen azken bertsioa."
+    "message": "Adshark-ekin bateragarria ez den Safari nabigatzailearen bertsio zahar bat erabiltzen ari zara. Agian ez da behar bezala ibiliko, edo webgune batzuen erabilera oztopatuko du. Mesedez Safari 6.11 edo berriagoa den bertsio batetara eguneratu (Mac OS X 10.8 Mountain Lion bertsiotik aurrera eskuragarri dago) edo Safari 7.0.1 (OS X 10.9 Mavericks bertsioan), edo erabili Mozilla Firefox, Google Chrome edo Opera nabigatzaileen azken bertsioa."
   },
   "firstRun_share": {
     "message": "Esan zure lagunei"
@@ -60,7 +60,7 @@
     "message": "<a>Lagundu gaitzazu</a> web-a hobetzen"
   },
   "firstRun_title": {
-    "message": "AdvertiBlock instalatu da"
+    "message": "Adshark instalatu da"
   },
   "firstRun_toggle_off": {
     "message": "EZGAITUA"

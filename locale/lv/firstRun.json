@@ -45,13 +45,13 @@
     "message": "Pārlūkot privāti, atspējojot izsekošanu - slēpjot Jūsu pēdas no reklāmas kompānijām, kuras varētu izsekot katru Jūsu kustību."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock var izdarīt vairāk, ne tikai bloķēt reklāmas"
+    "message": "Adshark var izdarīt vairāk, ne tikai bloķēt reklāmas"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Diemžēl, traucējuma dēļ visi filtri bija novākti un neizdevās izmantot rezerves versiju. Tādēļ mēs atjaunojam jūsu filtrus un Acceptable Ads iestatījumus līdz sākumstāvoklim. Esiet tik laipni un izpētiet jūsu filtra sarakstus un Acceptable Ads iestātījumus  izmantojot šo <a>AdvertiBlock options</a>."
+    "message": "Diemžēl, traucējuma dēļ visi filtri bija novākti un neizdevās izmantot rezerves versiju. Tādēļ mēs atjaunojam jūsu filtrus un Acceptable Ads iestatījumus līdz sākumstāvoklim. Esiet tik laipni un izpētiet jūsu filtra sarakstus un Acceptable Ads iestātījumus  izmantojot šo <a>Adshark options</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Jūs izmantojat novecojušu Safari versiju, kuru AdvertiBlock neatbalsta. Tas var nedarboties pareizi vai pasliktināt lietotāja pieredzi dažās vietnēs. Mēs uzstājīgi iesakām Jums atjaunināt Safari līdz 6. vai vēl jaunākai versijai (pieejama Mac OS X 10.8 Mountain Lion un augstāk) jeb lietot Mozilla Firefox, Google Chrome vai Opera jaunākās versijas."
+    "message": "Jūs izmantojat novecojušu Safari versiju, kuru Adshark neatbalsta. Tas var nedarboties pareizi vai pasliktināt lietotāja pieredzi dažās vietnēs. Mēs uzstājīgi iesakām Jums atjaunināt Safari līdz 6. vai vēl jaunākai versijai (pieejama Mac OS X 10.8 Mountain Lion un augstāk) jeb lietot Mozilla Firefox, Google Chrome vai Opera jaunākās versijas."
   },
   "firstRun_share": {
     "message": "Pastāsti saviem draugiem"
@@ -60,7 +60,7 @@
     "message": "<a>Palīdzi mums</a> padarīt tīklu par labāku vietu"
   },
   "firstRun_title": {
-    "message": "AdvertiBlock ir uzstādīts"
+    "message": "Adshark ir uzstādīts"
   },
   "firstRun_toggle_off": {
     "message": "IZSLĒGTS"

@@ -45,13 +45,13 @@
     "message": "Navegá privadamente deshabilitando el rastreo; esto es: ocultarle a las agencias de publicidad tus visitas, las cuales, de otro modo, registrarían todos tus movimientos."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock puede bloquear más que publicidades"
+    "message": "Adshark puede bloquear más que publicidades"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Parece que hay un problema que causa que todos los filtros se quiten y que no se pueda restaurar desde una copia de seguridad. Por lo tanto tuvimos que restablecer tus filtros y la configuración de publicidades aceptadas. Por favor, revisá tus listas de filtros y la configuración de publicidades aceptadas en las <a>opciones de AdvertiBlock</a>."
+    "message": "Parece que hay un problema que causa que todos los filtros se quiten y que no se pueda restaurar desde una copia de seguridad. Por lo tanto tuvimos que restablecer tus filtros y la configuración de publicidades aceptadas. Por favor, revisá tus listas de filtros y la configuración de publicidades aceptadas en las <a>opciones de Adshark</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Estás usando una versión vieja de Safari, la cual no soporta AdvertiBlock. Puede que no funcione correctamente o que perjudique la experiencia del usuario en algunos sitios web. Te recomendamos encarecidamente que, o bien actualicés a Safari 6.1. o más reciente (en Mac OS X 10.8 Mountain Lion), o Safari 7.0.1 o más reciente (en Mac OS X 10.9 Mavericks), o bien usés la última versión de Mozilla Firefox, Google Chrome u Opera."
+    "message": "Estás usando una versión vieja de Safari, la cual no soporta Adshark. Puede que no funcione correctamente o que perjudique la experiencia del usuario en algunos sitios web. Te recomendamos encarecidamente que, o bien actualicés a Safari 6.1. o más reciente (en Mac OS X 10.8 Mountain Lion), o Safari 7.0.1 o más reciente (en Mac OS X 10.9 Mavericks), o bien usés la última versión de Mozilla Firefox, Google Chrome u Opera."
   },
   "firstRun_share": {
     "message": "Contáselo a tus amigos"
@@ -60,7 +60,7 @@
     "message": "<a>Danos una mano</a> para hacer de la web un lugar mejor"
   },
   "firstRun_title": {
-    "message": "Se instaló AdvertiBlock"
+    "message": "Se instaló Adshark"
   },
   "firstRun_toggle_off": {
     "message": "DESACTIVAR"

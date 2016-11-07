@@ -45,13 +45,13 @@
     "message": "Privates Surfen durch Deaktivierung der Tracker - Versteckt Ihr Surfverhalten vor Werbefirmen, die Sie sonst ausspionieren würden."
   },
   "firstRun_features": {
-    "message": "AdvertiBlock kann mehr als nur Werbung blockieren"
+    "message": "Adshark kann mehr als nur Werbung blockieren"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Es scheint, als ob aufgrund eines Problems alle Filter entfernt wurden und wir keine Sicherung wiederherstellen konnten. Deshalb wurden alle Ihre Filter sowie Ihre Einstellungen für akzeptable Werbung zurückgesetzt. Überprüfen Sie bitte Ihre Filterliste und Ihre Einstellungen für akzeptable Werbung in den <a>AdvertiBlock Optionen</a>."
+    "message": "Es scheint, als ob aufgrund eines Problems alle Filter entfernt wurden und wir keine Sicherung wiederherstellen konnten. Deshalb wurden alle Ihre Filter sowie Ihre Einstellungen für akzeptable Werbung zurückgesetzt. Überprüfen Sie bitte Ihre Filterliste und Ihre Einstellungen für akzeptable Werbung in den <a>Adshark Optionen</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Sie verwenden eine ältere Version von Safari, die nicht von AdvertiBlock unterstützt wird. Es kann sein, dass AdvertiBlock damit nicht richtig funktioniert oder dass bestimmte Websites nicht richtig dargestellt werden. Wir empfehlen deshalb dringend, entweder ein Upgrade auf Safari 6.1.1 oder höher (auf OS X 10.8 Mountain Lion) oder auf Safari 7.0.1 oder höher (auf OS X 10.9 Mavericks) durchzuführen oder die neueste Version von Mozilla Firefox, Google Chrome oder Opera zu verwenden."
+    "message": "Sie verwenden eine ältere Version von Safari, die nicht von Adshark unterstützt wird. Es kann sein, dass Adshark damit nicht richtig funktioniert oder dass bestimmte Websites nicht richtig dargestellt werden. Wir empfehlen deshalb dringend, entweder ein Upgrade auf Safari 6.1.1 oder höher (auf OS X 10.8 Mountain Lion) oder auf Safari 7.0.1 oder höher (auf OS X 10.9 Mavericks) durchzuführen oder die neueste Version von Mozilla Firefox, Google Chrome oder Opera zu verwenden."
   },
   "firstRun_share": {
     "message": "Weiterempfehlen"
@@ -60,7 +60,7 @@
     "message": "<a>Bitte unterstützen Sie uns</a> dabei, das Internet zu einem besseren Ort zu machen"
   },
   "firstRun_title": {
-    "message": "AdvertiBlock wurde installiert"
+    "message": "Adshark wurde installiert"
   },
   "firstRun_toggle_off": {
     "message": "AUS"
