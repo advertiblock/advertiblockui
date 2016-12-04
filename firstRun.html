@@ -31,27 +31,6 @@
   </head>
   <body>
 
-
-  <!doctype html>
-  <html>
-  <head>
-    <meta charset="utf-8">
-    <title>AdShark&trade; has been Installed</title>
-    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?ver=3.8'></script>
-    <meta name="description" content="">
-    <meta name="author" content="BeakerApps">
-    <meta property="fb:app_id" content="" />
-    <meta property="og:title" content="AdShark&trade; has been Installed" />
-    <meta property="og:descrition" content="Block obtrusive ads" />
-    <meta property="og:url" content="" />
-    <meta property="og:image" content="" />
-    <link rel="shortcut icon" href="skin/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="skin/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="stylesheets/css.css">
-  </head>
-
-  <body>
-
     <!-- Top -->
     <div class="top">
       <img src="skin/logo-installed.png" class="logo">
@@ -83,7 +62,7 @@
               <p>Make your browsing more secure by blocking known malware domains</p>
             </div>
             <div class="button">
-              <div class="onoffswitch">
+              <div class="onoffswitch" id="toggle-malware">
                 <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="malware-button">
                 <label class="onoffswitch-label" for="malware-button"></label>
               </div>
@@ -96,7 +75,7 @@
               <p>Automatically rid your browsing experience of social media buttons, such as the Facebook Like, which appear on web pages and track your behavior.</p>
             </div>
             <div class="button">
-              <div class="onoffswitch">
+              <div class="onoffswitch" id="toggle-social">
                 <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="social-button">
                 <label class="onoffswitch-label" for="social-button"></label>
               </div>
@@ -109,7 +88,7 @@
               <p>Browse privately by disabling tracking - hiding your tracks from ad companies that would track your every move.</p>
             </div>
             <div class="button">
-              <div class="onoffswitch">
+              <div class="onoffswitch" id="toggle-tracking">
                 <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="tracking-button">
                 <label class="onoffswitch-label" for="tracking-button"></label>
               </div>
