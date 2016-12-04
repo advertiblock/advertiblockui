@@ -32,94 +32,91 @@
   <body>
 
 
-    <header>
-        Ahoj
-        <img id="logo">
-        <h1 id="title-main" class="i18n_firstRun_title"></h1>
-    </header>
+  <!doctype html>
+  <html>
+  <head>
+    <meta charset="utf-8">
+    <title>AdShark&trade; has been Installed</title>
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?ver=3.8'></script>
+    <meta name="description" content="">
+    <meta name="author" content="BeakerApps">
+    <meta property="fb:app_id" content="" />
+    <meta property="og:title" content="AdShark&trade; has been Installed" />
+    <meta property="og:descrition" content="Block obtrusive ads" />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="" />
+    <link rel="shortcut icon" href="skin/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="skin/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="stylesheets/css.css">
+  </head>
 
-    <section id="legacySafariWarning" class="i18n_firstRun_legacySafariWarning warning" hidden="true"></section>
-    <section id="filterlistsReinitializedWarning" class="i18n_firstRun_filterlistsReinitializedWarning warning" hidden="true"></section>
+  <body>
 
-    <div id="content">
-      <section id="general">
-        <div id="acceptable-ads-block" class="block">
-          <h2 class="i18n_firstRun_acceptableAdsHeadline"></h2>
-          <p id="acceptable-ads-explanation" class="i18n_firstRun_acceptableAdsExplanation"></p>
-        </div>
-
-
-        <div class="block">
-          <div id="share-general" class="share-buttons">
-            <a id="share-facebook" href="https://www.facebook.com/adblocker" target="_blank" data-script="https://facebook.com/plugins/like.php?">
-            </a>
-            <a id="share-twitter" href="https://twitter.com/adblocker" target="_blank" data-script="https://platform.twitter.com/widgets/">
-            </a>
-            <a id="share-gplus" href="https://www.google.com/+adblocker" target="_blank" data-script="https://apis.google.com/se/0/_/+1/fastbutton?">
-            </a>
-          </div>
-        </div>
-      </section>
-
-
-      <section id="can-do-more">
-        <h2 class="i18n_firstRun_features"></h2>
-
-        <div id="can-do-more-content">
-          <ul id="features">
-            <li id="feature-malware" class="feature">
-              <div class="feature-image feature-malware-image"></div>
-              <div class="feature-description">
-                <div class="feature-description-textblock">
-                  <h3 class="i18n_firstRun_feature_malware feature-title"></h3>
-                  <span class="i18n_firstRun_feature_malware_description"></span>
-                </div>
-                <div id="toggle-malware" class="toggle">
-                  <div class="i18n_firstRun_toggle_on toggle-on"></div>
-                  <div class="toggle-blob"></div>
-                  <div class="i18n_firstRun_toggle_off toggle-off"></div>
-                </div>
-              </div>
-
-            </li>
-            <li id="feature-social" class="feature">
-              <div class="feature-image feature-social-image"></div>
-              <div class="feature-description">
-                <div class="feature-description-textblock">
-                  <h3 class="i18n_firstRun_feature_social feature-title"></h3>
-                  <span class="i18n_firstRun_feature_social_description"></span>
-                </div>
-                <div id="toggle-social" class="toggle">
-                  <div class="i18n_firstRun_toggle_on toggle-on"></div>
-                  <div class="toggle-blob"></div>
-                  <div class="i18n_firstRun_toggle_off toggle-off"></div>
-                </div>
-              </div>
-            </li>
-
-            <li id="feature-tracking" class="feature">
-              <div class="feature-image feature-tracking-image"></div>
-              <div class="feature-description">
-                  <div class="feature-description-textblock">
-                    <h3 class="i18n_firstRun_feature_tracking feature-title"></h3>
-                    <span class="i18n_firstRun_feature_tracking_description"></span>
-                  </div>
-                  <div id="toggle-tracking" class="toggle">
-                    <div class="i18n_firstRun_toggle_on toggle-on"></div>
-                    <div class="toggle-blob"></div>
-                    <div class="i18n_firstRun_toggle_off toggle-off"></div>
-                  </div>
-              </div>
-            </li>
-
-          </ul>
-
-        </div>
-      </section>
+    <!-- Top -->
+    <div class="top">
+      <img src="skin/logo-installed.png" class="logo">
     </div>
 
-    <footer>
-      <a id="contributors" class="i18n_firstRun_contributor_credits"></a>
-    </footer>
+    <!-- Middle -->
+    <div class="middle">
+      <div class="center">
+        <h1>Annoying ads will now be blocked</h1>
+        <p>We’d like to encourage websites to use straightforward, unobtrusive advertising. That’s why we’ve established strict guidelines to indentify acceptable ads, which are shown under default settings. If you still want to block every ad you can disable this in a few seconds.</p>
+        <h3>To keep us free,<br>please share and spread the word!</h3>
+        <ul class="social-links">
+          <li><a href="#" target="_blank"><img src="skin/social_facebook.png"></a></li>
+          <li><a href="#" target="_blank"><img src="skin/social_twitter.png"></a></li>
+          <li><a href="#" target="_blank"><img src="skin/social_google.png"></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Bottom -->
+    <div class="bottom">
+      <div class="center">
+        <h1>Adshark can do more than block ads</h1>
+        <ul class="options">
+          <li class="option">
+            <img src="skin/icon_malware.png" class="icon">
+            <div class="description">
+              <h3>Malware Blocking</h3>
+              <p>Make your browsing more secure by blocking known malware domains</p>
+            </div>
+            <div class="button">
+              <div class="onoffswitch">
+                <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="malware-button">
+                <label class="onoffswitch-label" for="malware-button"></label>
+              </div>
+            </div>
+          </li>
+          <li class="option">
+            <img src="skin/icon_social.png" class="icon">
+            <div class="description">
+              <h3>Remove Social Media Buttons</h3>
+              <p>Automatically rid your browsing experience of social media buttons, such as the Facebook Like, which appear on web pages and track your behavior.</p>
+            </div>
+            <div class="button">
+              <div class="onoffswitch">
+                <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="social-button">
+                <label class="onoffswitch-label" for="social-button"></label>
+              </div>
+            </div>
+          </li>
+          <li class="option">
+            <img src="skin/icon_tracking.png" class="icon">
+            <div class="description">
+              <h3>Disable Tracking</h3>
+              <p>Browse privately by disabling tracking - hiding your tracks from ad companies that would track your every move.</p>
+            </div>
+            <div class="button">
+              <div class="onoffswitch">
+                <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="tracking-button">
+                <label class="onoffswitch-label" for="tracking-button"></label>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
   </body>
 </html>
