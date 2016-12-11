@@ -80,19 +80,19 @@
 
   function updateSocialLinks()
   {
-    var networks = ["twitter", "facebook", "gplus"];
-    networks.forEach(function(network)
-    {
-      var link = E("share-" + network);
-      checkShareResource(link.getAttribute("data-script"), function(isBlocked)
-      {
-        // Don't open the share page if the sharing script would be blocked
-        if (isBlocked)
-          link.removeEventListener("click", onSocialLinkClick, false);
-        else
-          link.addEventListener("click", onSocialLinkClick, false);
-      });
-    });
+    // var networks = ["twitter", "facebook", "gplus"];
+    // networks.forEach(function(network)
+    // {
+    //   var link = E("share-" + network);
+    //   checkShareResource(link.getAttribute("data-script"), function(isBlocked)
+    //   {
+    //     // Don't open the share page if the sharing script would be blocked
+    //     if (isBlocked)
+    //       link.removeEventListener("click", onSocialLinkClick, false);
+    //     else
+    //       link.addEventListener("click", onSocialLinkClick, false);
+    //   });
+    // });
   }
 
   function onSocialLinkClick(event)
