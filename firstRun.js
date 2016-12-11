@@ -43,58 +43,10 @@
 
   function onDOMLoaded()
   {
-    // Set up logo image
-    var logo = E("logo");
-    logo.src = "skin/abp-128.png";
-    var errorCallback = function()
-    {
-      logo.removeEventListener("error", errorCallback, false);
-      // We are probably in Chrome/Opera/Safari, the image has a different path.
-      logo.src = "icons/detailed/abp-128.png";
-    };
-    logo.addEventListener("error", errorCallback, false);
-
-    // Set up URLs
-    getDocLink("donate", function(link)
-    {
-      E("donate").href = link;
-    });
-
-    getDocLink("contributors", function(link)
-    {
-      E("contributors").href = link;
-    });
-
-    getDocLink("acceptable_ads_criteria", function(link)
-    {
-      setLinks("acceptable-ads-explanation", link, openFilters);
-    });
-
-    getDocLink("contribute", function(link)
-    {
-      setLinks("share-headline", link);
-    });
-
-    ext.backgroundPage.sendMessage({
-      type: "app.get",
-      what: "issues"
-    }, function(issues)
-    {
-      // Show warning if filterlists settings were reinitialized
-      if (issues.filterlistsReinitialized)
-      {
-        E("filterlistsReinitializedWarning").removeAttribute("hidden");
-        setLinks("filterlistsReinitializedWarning", openFilters);
-      }
-
-      if (issues.legacySafariVersion)
-        E("legacySafariWarning").removeAttribute("hidden");
-    });
-
+    
     // Set up feature buttons linked to subscriptions
     featureSubscriptions.forEach(initToggleSubscriptionButton);
     updateToggleButtons();
-    updateSocialLinks();
 
     ext.onMessage.addListener(function(message)
     {
