@@ -67,7 +67,7 @@
     var feature = featureSubscription.feature;
 
     var element = E("toggle-" + feature);
-    element.addEventListener("click", function(event)
+    element.addEventListener("change", function(event)
     {
       ext.backgroundPage.sendMessage({
         type: "subscriptions.toggle",
@@ -159,11 +159,9 @@
 
   function updateToggleButton(feature, isEnabled)
   {
-    var button = E("toggle-" + feature);
+    var checkbox = E("toggle-" + feature);
     if (isEnabled)
-      button.classList.remove("off");
-    else
-      button.classList.add("off");
+      checkbox.checked = 'checked';
   }
 
   document.addEventListener("DOMContentLoaded", onDOMLoaded, false);
